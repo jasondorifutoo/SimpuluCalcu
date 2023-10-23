@@ -1,5 +1,4 @@
 # SimpuluCalcu
-Not a perfect calculator made in C Programming Language, used with CMD for calculating simple arithmetic operations (Sum, Substract, Multiplication, Division, Remainder)
 
 Derivated from Japanesse Language for "Simple Calculator"
 
